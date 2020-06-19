@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import turtle
 turtle.speed(0)
 turtle.bgcolor("Green")
@@ -21,11 +15,3 @@ for _ in range(n):
     dist += 2
   turtle.fd(dist)
   turtle.left(137.5)
-  
-
-
-# In[ ]:
-
-
-
-
